@@ -24,8 +24,8 @@
 </div>
 
 
-<div class="ui two column centered grid" style="padding-top: 100px">
-    <div class="column">
+<div class="ui two column centered grid" style="padding-top: 100px;margin-bottom: 20px">
+    <div class="column animate__animated animate__fadeInDown" >
         <div class="ui fluid action left icon input">
             <i class="inverted circular search link icon"></i>
             <input type="text" placeholder="Search...">
