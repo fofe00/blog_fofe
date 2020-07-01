@@ -9,7 +9,7 @@
         <div class="ui dropdown item">
             Apropos <i class="dropdown icon"></i>
             <div class="menu">
-                <a class="item">DevWus</a>
+                <a class="item  animate__animated animate__flipInX">DevWus</a>
                 <a class="item">Fofe</a>
                 <a class="item">Yaton</a>
             </div>

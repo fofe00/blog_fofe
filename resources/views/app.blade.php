@@ -4,5 +4,5 @@
     @include('partials._slide')
     @yield("content")
 </div>
-@include("partials.")
+@include("partials._tfooter")
 @include('partials._footer')
