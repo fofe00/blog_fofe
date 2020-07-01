@@ -1,6 +1,5 @@
 @extends('app')
 @section('content')
-
     <div class="ui grid  centered cards">
         <div class="ui  seven wide card horizontal ">
             <div class="image">

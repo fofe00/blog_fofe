@@ -13,7 +13,7 @@
 
 Route::get('/', function () {
     return view('index');
-});
-Route::get('/contact', 'PageController@contact');
+})->name("home");
+Route::get('/contact', 'PageController@contact')->name('contact');
 Route::get('/auth/github', 'LoginController@socialProvider');
 Route::get('/github', 'LoginController@socialProviderCallback');

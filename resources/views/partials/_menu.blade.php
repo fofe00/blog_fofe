@@ -1,9 +1,9 @@
 <div class="ui secondary  huge pointing menu">
-    <a class="active item">
+    <a class="active item" href="{{ route('home') }}">
         DevWUs
     </a>
     <div class="right menu">
-        <a class="item">
+        <a class="item" href="{{ route('home') }}">
             Articles
         </a>
         <div class="ui dropdown item">
@@ -14,7 +14,7 @@
                 <a class="item">Yaton</a>
             </div>
         </div>
-        <a class="ui item">
+        <a class="ui item" href="{{ route("contact") }}">
             Contact
         </a>
         <a class="ui item">
