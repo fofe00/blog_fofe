@@ -1,4 +1,4 @@
-<div class="ui secondary  huge pointing menu">
+<div class="ui secondary  stackable huge pointing menu">
     <a class="active item" href="{{ route('home') }}">
         DevWUs
     </a>
@@ -24,7 +24,7 @@
 </div>
 
 
-<div class="ui two column centered grid" style="padding-top: 100px;margin-bottom: 20px">
+<div class="ui two column stackable centered grid" style="padding-top: 100px;margin-bottom: 20px">
     <div class="column animate__animated animate__fadeInDown" >
         <div class="ui fluid action left icon input">
             <i class="inverted circular search link icon"></i>
