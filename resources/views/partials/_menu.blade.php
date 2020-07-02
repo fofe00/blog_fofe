@@ -17,9 +17,16 @@
         <a class="ui item" href="{{ route("contact") }}">
             Contact
         </a>
-        <a class="ui item">
-            Logout
-        </a>
+        @auth()
+            <a class="ui item">
+                Logout
+            </a>
+        @endauth
+        @guest()
+            <a class="ui item">
+                Login
+            </a>
+        @endguest
     </div>
 </div>
 
