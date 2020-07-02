@@ -2,12 +2,11 @@
     <div class="ui container">
         <div class="ui stackable inverted divided equal height stackable grid">
             <div class="three wide column">
-                <h4 class="ui inverted header">About</h4>
+                <h4 class="ui inverted header">A-propos</h4>
                 <div class="ui inverted link list">
-                    <a href="#" class="item">Sitemap</a>
+                    <a href="#" class="item">DevWus</a>
+                    <a href="#" class="item">ainix</a>
                     <a href="#" class="item">Contact Us</a>
-                    <a href="#" class="item">Religious Ceremonies</a>
-                    <a href="#" class="item">Gazebo Plans</a>
                 </div>
             </div>
             <div class="three wide column">
