@@ -39,7 +39,15 @@
     bottom: 0;
     margin: 15px;
 }
-.home{
-    animation-duration:1s ;
-    animation-iteration-count: infinite;
+.monSlide{
+    display: flex !important;
+}
+.monSlide img{
+    margin: 0.5% !important;
+}
+.oo{
+    height:15px;
+}
+.ol{
+    margin: 0;
 }
