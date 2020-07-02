@@ -20,8 +20,14 @@
                 </div>
             </div>
             <div class="seven wide column">
-                <h4 class="ui inverted header">Footer Header</h4>
-                <p>Extra space for a call to action inside the footer that could help re-engage users.</p>
+                <h4 class="ui inverted header">Copyright</h4>
+                <p>design by ainix
+                    <i class=" blue telegram icon big"></i>
+                    <i class=" blue google icon big"></i>
+                    <i class="  github icon big"></i>
+                    <i class=" blue twitter icon big"></i>
+                </p>
+                <p>© Copyright {{ date('Y') }} DevWus. ® All rights reserved.</p>
             </div>
         </div>
     </div>
