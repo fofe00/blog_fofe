@@ -23,7 +23,7 @@
             </a>
         @endauth
         @guest()
-            <a class="ui item">
+            <a class="ui item login">
                 Login
             </a>
         @endguest

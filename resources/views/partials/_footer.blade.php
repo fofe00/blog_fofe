@@ -11,6 +11,15 @@
             autoplayTimeout:2000,
             autoplayHoverPause:false
         });
+        $(".login").click(function () {
+            $('.ui.modal')
+                .modal({
+                    blurring: true,
+                    transition:'slide left',
+                })
+                .modal('show')
+            ;
+        })
     });
 </script>
 
