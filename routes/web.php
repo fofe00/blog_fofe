@@ -21,7 +21,7 @@ Route::get('/contact', 'PageController@contact')->name('contact');
 Route::get('/auth/github', 'LoginController@socialProvider');
 Route::get('/github', 'LoginController@socialProviderCallback');
 /**
- * admin route oki
+ * admin route okiAAAAA
  */
 Route::get('/admin/login', function () {
     return view('admin.index');
